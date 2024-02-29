@@ -1,0 +1,14 @@
+.footer-container {
+    background-color: #333;
+    color: white;
+    height: 250px;
+    /* padding: 20px; */
+    text-align: center;
+    /* Add more styling as needed */
+  }
+  
+  /* Additional styling for links or other elements within the footer */
+  .footer-container a {
+    color: white;
+    text-decoration: none;
+  }
